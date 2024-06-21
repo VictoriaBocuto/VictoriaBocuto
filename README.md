@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil
 
-<!--
-**VictoriaBocuto/VictoriaBocuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sou victoria Bocuto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 atualmente estou trabalhando na empresa da minha família no ramo de Lanchonete;
+- 🌱 Atualmente estou cursando a 2ª Série do Ensino Médio;
+- Utilizo esse espaço para compartilhar meus projetos e experiências;
+- 📫 Entrar em contato pelo email: victoria.bocutopreviato@gmail.com;
+
+
